@@ -1,4 +1,4 @@
-#[View The List](https://github.com/ChiperSoft/InterviewThis/blob/master/InterviewThis.md)
+#[View The List](https://github.com/davidbradway/InterviewThis/blob/master/InterviewThis.md)
 
 InterviewThis is an open source list of developer questions to ask prospective employers during the hiring process.  I created this list because, frankly, the existing lists that I saw on this topic really sucked.  Many of the starting questions came about from years of hiring into jobs only to find out about some lousy attribute of the company which, had I known about, I probably wouldn't have accepted.
 
